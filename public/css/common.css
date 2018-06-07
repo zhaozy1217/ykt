@@ -1,0 +1,89 @@
+
+.public-header{
+    height: 150px;
+}
+
+.public-container{
+    position: relative;
+    margin: 0 auto;
+    width: 1100px;
+}
+
+.public-header .header-logo{
+    float: left;
+}
+
+.public-header .header-logo a{
+    width: 261px;
+    height: 145px;
+    background: url("../images/header-logo.png");
+}
+
+.public-header .header-nav{
+    float: right;
+}
+
+.public-header .header-nav .item{
+    float: left;
+    margin-top: 74px;
+    margin-left: 45px;
+}
+
+.public-header .header-nav a{
+    color:#000000;
+}
+
+.public-header .header-nav a:hover{
+    background: #fff000;
+    border-radius: 10px;
+}
+
+.public-footer{
+    height: 170px;
+    background: #f7f7f7;
+}
+
+.public-banner{
+    height: 256px;
+    background: #85ccc5;
+}
+
+.public-banner .banner-content{
+    font-family: "STZhongsong";
+    font-size: 30px;
+    padding-top: 83px;
+}
+
+.public-banner .banner-image{
+    width: 815px;
+    height: 256px;
+    margin-right: -200px;
+    float: right;
+    background: url("../images/index-banner.png");
+}
+
+.public-footer .footer-nav{
+    float: left;
+    margin-top: 26px;
+}
+
+.public-footer .footer-nav .item{
+    float: left;
+    margin-left: 40px;
+}
+
+.public-footer .copyright{
+    float: right;
+    margin-top: 26px;
+    margin-right: 46px;
+}
+
+.public-footer .list-button{
+    float: right;
+    margin-top: 22px;
+}
+
+.public-footer .list-button .item{
+    float: left;
+    margin-left: 13px;
+}

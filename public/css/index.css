@@ -1,0 +1,123 @@
+
+.about-service{
+    height: 650px;
+    background: #f7f7f7;
+}
+
+.about-service .about-service-title{
+    font-family: "SimHei";
+    font-size: 26px;
+    padding-top: 62px;
+}
+
+.about-service .line{
+    height: 12px;
+    width: 182px;
+    background: #81c6bf;
+    margin-top: -15px;
+}
+
+.about-service .content{
+    width: 274px;
+    height: 200px;
+    font-family: "SimHei";
+    border: 5px solid #555354;
+    border-radius: 4px;
+    text-align: left;
+    color:#555354;
+    margin-top: 50px;
+    float: left;
+}
+
+.about-service .detail-col{
+    float: left;
+}
+
+.about-service .service-detail{
+    float: left;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.about-service .img-title{
+    font-size: 17px;
+    text-align: center;
+}
+
+.about-service .img-col{
+    margin-top: 25px;
+}
+
+.about-service .num{
+    font-family: "STXinwei";
+    font-size: 60px;
+}
+
+.about-service .title{
+    font-size: 26px;
+    line-height: 44px;
+    margin-left: 8px;
+}
+
+.product-introduce{
+    height: 610px;
+}
+
+.product-introduce .product-introduce-title{
+    font-family: "SimHei";
+    font-size: 26px;
+    padding-top: 62px;
+}
+
+.product-introduce .product-introduce-title .line{
+    height: 12px;
+    width: 155px;
+    background: #81c6bf;
+    margin-top: -15px;
+}
+
+.product-introduce .list{
+    width: 584px;
+    height: 382px;
+    float: left;
+    margin-left: -10px;
+    margin-top: 49px;
+}
+
+.product-introduce .list .item{
+    float: left;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+
+.product-introduce .product-image{
+    margin-top: 65px;
+    float: left;
+    margin-left: 10px;
+}
+
+.second-banner{
+    height: 278px;
+    background: #85ccc5;
+    margin-top: 50px;
+}
+
+.second-banner .left-content{
+    font-size: 24px;
+    font-family: "SimHei";
+    padding-top: 44px;
+}
+
+.second-banner .left-image{
+    float: left;
+    margin-top: 44px;
+}
+
+.second-banner .right-content{
+    width: 375px;
+    float: left;
+    margin-left: 275px;
+    line-height: 27px;
+    margin-top: -37px;
+}
